@@ -1,3 +1,4 @@
+# 🏥 Heart Disease Prediction with Big Data & Machine Learning 💡
 ## 🔍 Overview
 This project leverages Big Data and Machine Learning to predict heart disease risks by analyzing large-scale healthcare datasets. By integrating Apache Spark and Hadoop, we efficiently process and analyze massive volumes of medical data in real time, enabling timely insights for healthcare professionals.
 
