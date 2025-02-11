@@ -7,4 +7,5 @@ Big Data : Apache Spark, Hadoop
 Machine Learning : Scikit-learn
 Visualisation : Power BI
 Déploiement : Streamlit
-## 🎯 Objectif : Détecter précocement les risques de maladies cardiaques en fournissant une analyse en temps réel et des visualisations interactives pour les professionnels de santé.
+## 🎯 Objectif : 
+Détecter précocement les risques de maladies cardiaques en fournissant une analyse en temps réel et des visualisations interactives pour les professionnels de santé.
