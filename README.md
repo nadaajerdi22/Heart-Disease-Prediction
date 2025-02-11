@@ -6,3 +6,5 @@ Big Data: Apache Spark, Hadoop
 Machine Learning: Scikit-learn
 Data Visualization: Power BI
 Deployment: Streamlit
+## 🎯 Objective:
+To enable early detection of heart disease risks by providing real-time analysis and interactive visualizations for healthcare professionals. 🚀
